@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Qingkongkaze
-- 👀 我是晴空风
-- 🌱 来到GitHub希望学到更多
-- 💞️ 相信技术宅改变世界
+- 👀 
+- 🌱
+- 💞️ 
 - 📫 How to reach me 邮箱:17820764734@163.com
 - 
 
